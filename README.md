@@ -1,6 +1,7 @@
 # Regularised-Regression-With-5-Fold-crossvalidation-using-GLMnet-in-R
 
-This Program Imlements K Fold crossvalidation with regularised regression with help of Stanford's GLMNET Liabrary to predict slump flow of concrete as described [Here] (Slump%20Flow.pdf)
+This Program Imlements K Fold crossvalidation with regularised regression with help of Stanford's GLMNET Liabrary to predict slump flow of concrete as described
+[Here](Slump%20Flow.pdf)
 
 * [Project Description](Description.pdf)
 
