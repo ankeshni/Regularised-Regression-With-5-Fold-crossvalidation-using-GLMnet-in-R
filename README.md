@@ -4,4 +4,4 @@ This Program Imlements K Fold crossvalidation with regularised regression with h
 
 * [Project Description](Description.pdf)
 
-* [Analysis Report and Result]  (Intro to ML Project 1 Report.pdf )
+* [Analysis report](Intro%20to%20ML%20Project%201%20Report.pdf)
